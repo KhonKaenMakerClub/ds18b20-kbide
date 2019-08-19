@@ -1,0 +1,15 @@
+{
+  "name": "ds18b20",
+  "title" : "Temperature Sensor DS18B20",
+  "keywords": "dallas, maxim, ds18b20, temperature, sensor",
+  "description": "KBIDE Library for Dallas Temperature ICs (DS18B20, DS18S20, DS1822, DS1820).",
+  "category":"Sensors",
+  "license": "MIT",
+  "git": "https://github.com/KhonKaenMakerClub/ds18b20-kbide/",
+  "author": "Miles Burton and others | blocks by Comdet",
+  "email": "miles@mnetcs.com",
+  "url": "https://github.com/milesburton/Arduino-Temperature-Control-Library.git",
+  "version": "1.0.0",
+  "platform": ["arduino-esp32","arduino-avr"],
+  "image" : "/static/display.jpg"
+}
